@@ -1,8 +1,8 @@
-
 const reverse = (input)=>{
-    var reverse ="";
-    for(var i = input.length; i >=0; i--){
-        reverse +=input[i];
+    var reverseString ="";
+    for(var i = input.length-1; i >=0; i--){
+        reverseString +=input[i];
     }
-    return reverse;
+    return reverseString;
 }
+module.exports =reverse;
