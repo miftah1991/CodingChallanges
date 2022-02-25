@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Coding Challanges Reverse String
-> <b>Reverse string<br>
-This is Javascript function which return reverse of a string</b>
+> <b>Capaitalize First Letter<br>
+This is Javascript function which capitalize first lettter of string</b>
 
 
 ## Built With
