@@ -1,0 +1,23 @@
+{
+  "name": "codingchallanges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reverseString.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miftah1991/CodingChallanges.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miftah1991/CodingChallanges/issues"
+  },
+  "homepage": "https://github.com/miftah1991/CodingChallanges#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
