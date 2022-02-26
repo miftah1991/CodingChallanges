@@ -9,6 +9,7 @@ This is Javascript function which capitalize first lettter of string</b>
 
 - JavaScript
 - ES 6
+- JEST
 
 ## Getting Started
 To get a local copy follow these simple steps.
